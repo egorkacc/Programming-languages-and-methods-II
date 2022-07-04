@@ -1,2 +1,1 @@
-# Programming languages and methods
-## C++
+# # The 9-th laboratory work.
