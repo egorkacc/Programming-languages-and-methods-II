@@ -1,2 +1,1 @@
-# Programming languages and methods
-## C++
+# The 7-th laboratory work.
